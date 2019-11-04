@@ -19,7 +19,7 @@ public class Tp4Exo1 {
 		}
 		
 		System.out.println("moyenne de ces 4 notes : " + (moyenne / 4));
-			
+		saisie.close();
 	}
 
 }
