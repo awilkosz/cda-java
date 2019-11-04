@@ -1,0 +1,1 @@
+ALGO sommeEntiers ROLE //L'aglogrithme demande à l'utilisateur de saisir deux nombre entiers, puis le résultat est affiché variables ENTIERS: valeur1, valeur2 DEBUT valeur1 valeur2 afficher("Saisir un entier :") valeur1<-saisir() afficher("Saisir un autre entier : ") valeur2<-saisir() afficher("Résultat : " + chaine(valeur1 + valeur2)) FIN
