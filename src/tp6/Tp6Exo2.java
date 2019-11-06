@@ -1,0 +1,18 @@
+package tp6;
+
+import java.util.Scanner;
+
+public class Tp6Exo2 {
+
+	public static void main(String[] args) {
+		Scanner saisie = new Scanner(System.in);
+		
+		System.out.println("Saisir un texte: ");
+		String text = saisie.nextLine();
+
+		text = text.replaceAll("e", "");
+		System.out.print(text);
+		saisie.close();
+	}
+
+}
