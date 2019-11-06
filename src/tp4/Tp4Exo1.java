@@ -18,7 +18,7 @@ public class Tp4Exo1 {
 			moyenne += note;
 		}
 		
-		System.out.println("moyenne de ces 4 notes : " + (moyenne / 4));
+		System.out.println("moyenne de ces" + nbNotes + " notes : " + (moyenne / nbNotes));
 		saisie.close();
 	}
 
