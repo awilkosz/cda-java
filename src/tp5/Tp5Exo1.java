@@ -55,6 +55,8 @@ public class Tp5Exo1 {
 		
 		System.out.println("Plus grand élément : " + max);
 		System.out.println("Nombre de zéros : " + nbZeros);
+		
+		saisie.close();
 	}
 
 }
