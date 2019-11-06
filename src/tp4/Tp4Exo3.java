@@ -1,3 +1,6 @@
+/*Nom du répertoire : TP4
+Nom du projet : Tp4Exo3
+Nom de la classe : Tp4Exo3*/
 package tp4;
 
 import java.util.Scanner;

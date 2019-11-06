@@ -1,3 +1,7 @@
+/*Nom du répertoire : TP2
+Nom du projet : Tp2Exo2
+Nom de la classe : Tp2Exo2*/
+
 package tp2;
 import javax.swing.JOptionPane;
 import java.util.Scanner;

@@ -1,3 +1,6 @@
+/*Nom du répertoire : TP6
+Nom du projet : Tp6Exo5
+Nom de la classe : Tp6Exo5*/
 package tp6;
 
 import javax.swing.JOptionPane;

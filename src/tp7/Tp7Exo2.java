@@ -1,3 +1,6 @@
+/*Nom du répertoire : TP7
+Nom du projet : Tp7Exo2
+Nom de la classe : Tp7Exo2*/
 package tp7;
 
 import java.util.Arrays;

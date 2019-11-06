@@ -1,3 +1,6 @@
+/*Nom du répertoire : TP5
+Nom du projet : Tp5Exo6
+Nom de la classe : Tp5Exo6*/
 package tp5;
 
 import java.util.Scanner;
