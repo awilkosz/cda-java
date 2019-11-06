@@ -8,11 +8,11 @@ public class Tp7Exo2 {
 	public static void main(String[] args) {
 		Scanner saisie = new Scanner(System.in);
 		
-		System.out.println("Le premier nombre entier : ");
+		System.out.println("Saisir le premier nombre entier : ");
 		int nb1 = saisie.nextInt();
-		System.out.println("Le deuxième nombre entier : ");
+		System.out.println("Saisir le deuxième nombre entier : ");
 		int nb2 = saisie.nextInt();
-		System.out.println("Le troisième nombre entier : ");
+		System.out.println("Saisir le troisième nombre entier : ");
 		int nb3 = saisie.nextInt();
 		
 		System.out.println(plusGrand(nb1,nb2,nb3));
