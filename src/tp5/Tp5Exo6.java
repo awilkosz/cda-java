@@ -1,6 +1,5 @@
 package tp5;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Tp5Exo6 {
